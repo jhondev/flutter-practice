@@ -18,7 +18,8 @@ flutter:
   uses-material-design: true
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/images/my_avatar.png
+    - assets/images/
+    - assets/images/dices/
 
   fonts:
     - family: Pacifico
